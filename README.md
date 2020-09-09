@@ -13,3 +13,4 @@ step1: ./DHOP35du
 
 output DHOP35du.txt (nucleus_size | water_index)
 
+If you use the DHOP program, please cite the following refences: Unraveling nucleation pathway in methane clathrate formation
