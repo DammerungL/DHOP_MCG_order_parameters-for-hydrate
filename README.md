@@ -1,5 +1,5 @@
 # DHOP AND MCG
-a method for hydrate nucleus
+a method for finding hydrate nucleus structures
 
 The following program gives two different order parameters for hydrate nucleus.
 
