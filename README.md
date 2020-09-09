@@ -27,7 +27,7 @@ he program is referred to paper "Reaction Coordinate of Incipient Methane Clathr
 The following is the address of the original document:
 https://pubs.acs.org/doi/abs/10.1021/jp507959q
 
-MCG.cpp is the main program. liantong.pl is used to find the largest hydrate nucleus.
+MCG.cpp is the main program. liantongMCG.pl is used to find the largest hydrate nucleus.
 
 input panding.gro 550methane 3487tip4p_water example. The upper limit of the number of guest-molecules (methane) is 3303. If you want to calculate a larger system, please modify the upper limit in the MCG.cpp.
 
