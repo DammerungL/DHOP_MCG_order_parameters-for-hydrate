@@ -12,13 +12,13 @@
 
 using namespace std;
 
-    int jishu_i[14250][10];
-    int jishu_xin[14250];
-    int jishu_xin_F[14250];
-    double jishu_x[14250][10];
-    double jishu_y[14250][10];
-    double jishu_z[14250][10];
-    int jishu_0[14250];
+    int jishu_i[14250][10]; //14250 total number of atoms. if use the different system, this number should be changed
+    int jishu_xin[14250]; //14250 total number of atoms. if use the different system, this number should be changed
+    int jishu_xin_F[14250]; //14250 total number of atoms. if use the different system, this number should be changed
+    double jishu_x[14250][10]; //14250 total number of atoms. if use the different system, this number should be changed
+    double jishu_y[14250][10]; //14250 total number of atoms. if use the different system, this number should be changed
+    double jishu_z[14250][10]; //14250 total number of atoms. if use the different system, this number should be changed
+    int jishu_0[14250]; //14250 total number of atoms. if use the different system, this number should be changed
 
 int main()
 {
